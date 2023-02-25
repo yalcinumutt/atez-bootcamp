@@ -33,6 +33,6 @@ const calcuteArguments = (...args) => {
     return numberArray.reduce((acc, val) =>  acc * val);
 }
 
-console.log('Carpim', calcuteArguments(5,4,1, "hele"));
+console.log('Çarpım', calcuteArguments(10,4,1, "hele"));
 
 
