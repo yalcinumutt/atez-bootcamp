@@ -35,4 +35,4 @@ const calcuteArguments = (...args) => {
 
 console.log('Çarpım', calcuteArguments(10,4,1, "hele"));
 
-
+console.log('Denemem', calcFactorial(15));
