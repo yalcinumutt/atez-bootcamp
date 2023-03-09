@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "os": "^0.1.2",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "start": "NODE_ENV=prod node builtin.functions.js",
+    "dev": "NODE_ENV=development node builtin.functions.js"
+  }
+}
